@@ -1,0 +1,12 @@
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\bin\Debug\VehicleCustomizer.dll
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\bin\Debug\VehicleCustomizer.pdb
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\bin\Debug\Assembly-CSharp.dll
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\bin\Debug\Rocket.API.dll
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\bin\Debug\Rocket.Core.dll
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\bin\Debug\Rocket.Unturned.dll
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\bin\Debug\Uconomy.dll
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\bin\Debug\UnityEngine.dll
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\obj\Debug\VehicleCustomizer.csprojResolveAssemblyReference.cache
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\obj\Debug\VehicleCustomizer.dll
+C:\Users\Felix\Desktop\Assembly-CSharp\SDG\Unturned\Vehiclecustomizer\obj\Debug\VehicleCustomizer.pdb
